@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://addons/pixel_dungeon_tiles/kenney-1bit-pack/Tilesheet/colored_packed.png" type="Texture" id=1]
-[ext_resource path="res://addons/pixel_dungeon_tiles/pixel_dungeon_simple_tileset.tres" type="TileSet" id=2]
+[ext_resource path="res://addons/pixel_dungeon_tiles/Resources/pixel_dungeon_simple_tileset.tres" type="TileSet" id=2]
 
 [node name="DungeonTileSelector" type="Control"]
 anchor_right = 1.0
